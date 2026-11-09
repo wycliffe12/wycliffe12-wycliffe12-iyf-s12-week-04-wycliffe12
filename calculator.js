@@ -71,3 +71,11 @@ console.log("Power:", calculate(2, "**", 3));
 console.log("Division by zero:", calculate(10, "/", 0));
 
 console.log("Invalid operator:", calculate(10, "&", 5));
+
+console.log("Negative numbers:", calculate(-10, "+", 5));
+
+console.log("Decimal numbers:", calculate(2.5, "*", 2));
+
+console.log("Zero remainder:", calculate(10, "%", 5));
+
+console.log("Zero power:", calculate(5, "**", 0));
