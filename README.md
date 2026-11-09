@@ -113,3 +113,17 @@ node main.js
 - Node.js
 - Visual Studio Code
 - Git and GitHub
+
+
+## Learning Outcomes
+
+Through this assignment, I practised:
+
+- Declaring variables using const and let.
+- Working with JavaScript data types and operators.
+- Creating and using functions.
+- Applying conditional statements and loops.
+- Manipulating arrays and objects.
+- Using map, filter, find and reduce.
+- Parsing and stringifying JSON.
+- Building JavaScript applications.
